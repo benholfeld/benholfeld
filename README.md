@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Solution Architecture
+- 🌱 I’m currently learning VLA
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with 
+- 💬 Ask me about SF
+- 📫 How to reach me: ben@holfeld.com
+- ⚡ Fun fact: ...
+
 <!--
 **benholfeld/benholfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
