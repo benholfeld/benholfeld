@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
 - 💬 Ask me about SF
-- 📫 How to reach me: ben@holfeld.com
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ben at holfeld dot com
+- ⚡ Fun fact: I'm German
 
 <!--
 **benholfeld/benholfeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
