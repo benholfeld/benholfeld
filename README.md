@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Solution Architecture
-- 🌱 I’m currently learning VLA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 💬 Ask me about SF
+- 🔭 I’m currently working on AI Solution Architectures for Business Workflows
+- 🌱 I’m learning VLA, Physical AI, Agentic Solutions
+- 👯 I’m looking to collaborate on Automation & Robotics
+- 🤔 I’m looking for help with Fundraising & Growth
+- 💬 Ask me about SF Bay Area, Angellist Founders Cafe
 - 📫 How to reach me: ben at holfeld dot com
 - ⚡ Fun fact: I'm German
 
